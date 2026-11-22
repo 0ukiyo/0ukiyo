@@ -1,5 +1,4 @@
-# About Me:
-Heyoo I'm Maxim<br><br>I'm the kind of person who spends three hours automating a task that takes five minutes – and loves every second of it.<br><br>Right now I'm tinkering with AI agents, content automation and whatever side project caught my attention this week. Most of my code starts as "let's just try this" and sometimes turns into something useful.<br><br>If you're into automation, creative tech or just want to chat, say hi
+
 
 
 ## Socials:
